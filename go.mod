@@ -15,7 +15,7 @@ require (
 	github.com/go-chi/render v1.0.1
 	github.com/goreleaser/goreleaser v1.10.2
 	github.com/ilyakaznacheev/cleanenv v1.3.0
-	github.com/r3labs/sse/v2 v2.8.0
+	github.com/r3labs/sse/v2 v2.8.1
 	github.com/sirupsen/logrus v1.8.1
 	github.com/tc-hib/go-winres v0.3.0
 )
