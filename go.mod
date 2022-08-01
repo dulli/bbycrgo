@@ -6,7 +6,7 @@ require (
 	fyne.io/fyne/v2 v2.2.3
 	github.com/antonfisher/nested-logrus-formatter v1.3.1
 	github.com/bogem/id3v2/v2 v2.1.2
-	github.com/d5/tengo/v2 v2.12.0
+	github.com/d5/tengo/v2 v2.12.1
 	github.com/deepmap/oapi-codegen v1.11.0
 	github.com/dulli/go-rpi-ws281x v0.0.0-20220218191608-b1da59dbcc37
 	github.com/faiface/beep v1.1.0
